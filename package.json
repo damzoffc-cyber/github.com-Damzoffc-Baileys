@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Damzoffc/Baileys"
+    "@whiskeysockets/baileys": "https://github.com/Damzoffc/Baileys"
   }
 }
